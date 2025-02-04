@@ -24,6 +24,7 @@ dependencies = [
     "folium>=0.19.4",
     "pyproj>=3.7.0",
     "pandasql>=0.7.3",
+    "geojson>=3.2.0",
 ]
 
 [build-system]
